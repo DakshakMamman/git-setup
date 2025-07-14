@@ -7,3 +7,6 @@ git: is a distributed version controol system that help developers track their c
 github: is a remote platform use for  version control and collaboration.
 
 git is a version control while github offers collaboration for developer.
+
+
+steps in registering and installing git github
